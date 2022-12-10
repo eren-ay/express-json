@@ -1,0 +1,56 @@
+[
+    {
+        "author": "Chinua Achebe",
+        "pages": 209,
+        "title": "Things Fall Apart",
+        "year": 1958
+    },
+    {
+        "author": "Hans Christian Andersen",
+        "pages": 784,
+        "title": "Fairy tales",
+        "year": 1836
+    },
+    {
+        "author": "Dante Alighieri",
+        "pages": 928,
+        "title": "The Divine Comedy",
+        "year": 1315
+    },
+    {
+        "author": "Unknown",
+        "pages": 160,
+        "title": "The Epic Of Gilgamesh",
+        "year": -1700
+    },
+    {
+        "author": "Unknown",
+        "pages": 176,
+        "title": "The Book Of Job",
+        "year": -600
+    },
+    {
+        "author": "Unknown",
+        "pages": 384,
+        "title": "Njál's Saga",
+        "year": 1350
+    },
+    {
+        "author": "Jane Austen",
+        "pages": 226,
+        "title": "Pride and Prejudice",
+        "year": 1813
+    },
+    {
+        "author": "Honoré de Balzac",
+        "pages": 443,
+        "title": "Le Père Goriot",
+        "year": 1835
+    },
+    {
+        "author": "Samuel Beckett",
+        "pages": 256,
+        "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+        "year": 1952
+    }
+]
