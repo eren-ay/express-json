@@ -43,15 +43,6 @@ app.get('/books/book:id',(req: Request, res: Response)=>{
 
 
 
-
-app.get('/books/add', (req: Request, res: Response) => {
-    res.sendFile(__dirname+"/public/index.html");
-});
-
-
-
-
-
 app.post('/books/add',(req:Request,res: Response)=>{
     const book=new Book(req.body.author,req.body.pages);
     if (book.author == null || book.pages == null) {
@@ -80,5 +71,5 @@ const saveBookData = (data:Book) => {
 }
 
 app.listen(3000, () => {
-  console.log('Application started on port 3000!');
+    console.log('Application started on port 3000!');
 });
